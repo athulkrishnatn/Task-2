@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -58,7 +58,7 @@ header ul li a:hover {
     background: #555;
 }
 
-/* Hero Section */
+
 .hero {
     background: url('hero-bg.jpg') no-repeat center center/cover;
     color: #fff;
@@ -89,7 +89,7 @@ header ul li a:hover {
     background: #e64a19;
 }
 
-/* Services Section */
+
 .services {
     padding: 60px 0;
     background: #f4f4f4;
@@ -122,7 +122,6 @@ header ul li a:hover {
     margin-bottom: 10px;
 }
 
-/* Image and Text Section */
 .image-text-section {
     padding: 60px 0;
     background: #e2e2e2;
@@ -163,7 +162,7 @@ header ul li a:hover {
     margin-bottom: 10px;
 }
 
-/* Footer Section */
+
 footer {
     background: #333;
     color: #fff;
@@ -172,7 +171,7 @@ footer {
     margin-top: 40px;
 }
 
-/* Responsive Styles */
+
 @media (max-width: 768px) {
     header nav {
         float: none;
